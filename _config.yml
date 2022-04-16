@@ -14,4 +14,4 @@ author: "Yoshinori Sugai"
 #   - about.md
 
 # theme: minima
-theme: tactile
+theme: jekyll-theme-slate
