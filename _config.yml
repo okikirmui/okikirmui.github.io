@@ -9,7 +9,6 @@ author: "Yoshinori Sugai"
 minima:
   social_links:
     github: okikirmui
-  skin: dark
 
 header_pages:
   - about.md
