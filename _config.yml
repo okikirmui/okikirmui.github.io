@@ -6,12 +6,10 @@ url: https://okikirmui.github.io/
 github_username: okikirmui
 author: "Yoshinori Sugai"
 
-# minima:
-#   social_links:
-#     github: okikirmui
+minima:
+  social_links:
+    github: okikirmui
+header_pages:
+  - about.md
 
-# header_pages:
-#   - about.md
-
-# theme: minima
-theme: jekyll-theme-midnight
+theme: minima
