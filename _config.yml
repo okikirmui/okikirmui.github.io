@@ -1,6 +1,16 @@
-theme: minima
 title: 韓国語コーパスの利用方法
-description: "韓国語コーパスを検索して用例を収集するための解説サイトです．"
+description: "韓国語コーパスを検索して用例を収集するための解説です．"
+show_excerpts: false
+
 url: https://okikirmui.github.io/
 github_username: okikirmui
 author: "Yoshinori Sugai"
+
+minima:
+  social_links:
+    github: okikirmui
+
+header_pages:
+  - about.md
+
+theme: minima
