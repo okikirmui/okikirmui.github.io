@@ -1,6 +1,6 @@
 title: 韓国語コーパスの利用方法
 description: "韓国語コーパスを検索して用例を収集するための解説サイトです"
-show_excerpts: true
+show_excerpts: false
 
 url: https://okikirmui.github.io/
 github_username: okikirmui
