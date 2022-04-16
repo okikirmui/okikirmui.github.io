@@ -1,3 +1,8 @@
+---
+layout: default
+title: 現代韓国語用例検索器の使い方 | 高麗大コーパスの使い方
+---
+
 # 現代韓国語用例検索器の使い方
 
 ここでは，高麗大学（고려대학교）[民族文化研究院（민족문화연구원）](https://riks.korea.ac.kr/)の[デジタル人文学センター（디지털인문학센터）](https://riks.korea.ac.kr/organization/digitalhumanities)を通して公開されている検索ツールのうち，SJ-RIKSコーパスを検索できる[현대한국어 용례검색기（現代韓国語用例検索器）](http://riksdb.korea.ac.kr/)の利用方法についてまとめます．

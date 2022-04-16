@@ -1,3 +1,8 @@
+---
+layout: default
+title: コーパス分析ツールの使い方 | 高麗大コーパスの使い方
+---
+
 # コーパス分析ツールの使い方
 
 ここでは，高麗大学（고려대학교）[民族文化研究院（민족문화연구원）](https://riks.korea.ac.kr/)の[デジタル人文学センター（디지털인문학센터）](https://riks.korea.ac.kr/organization/digitalhumanities)を通して公開されている検索ツールのうち，물결21（Trend21）コーパスを検索できる[웹 기반 코퍼스 분석 도구（ウェブベースコーパス分析ツール）](http://corpus.korea.ac.kr/)（以下「分析ツール」）の利用方法についてまとめます．
