@@ -3,7 +3,7 @@ description: "韓国語コーパスを検索して用例を収集するための
 show_excerpts: false
 
 url: "https://okikirmui.github.io"
-languages: "ja"
+lang: "ja"
 markdown: kramdown
 github_username: okikirmui
 author: "Yoshinori Sugai"
