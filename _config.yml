@@ -7,6 +7,8 @@ markdown: kramdown
 github_username: okikirmui
 author: "Yoshinori Sugai"
 
+google_analytics: G-XSB3HDLQ7G
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
