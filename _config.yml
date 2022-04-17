@@ -7,6 +7,10 @@ markdown: kramdown
 github_username: okikirmui
 author: "Yoshinori Sugai"
 
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
 # minima:
 #   social_links:
 #     github: okikirmui
