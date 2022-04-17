@@ -13,10 +13,10 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-minima:
-  social_links:
-    github: okikirmui
-header_pages:
-  - about.md
+# minima:
+#   social_links:
+#     github: okikirmui
+# header_pages:
+#   - about.md
 
-theme: minima
+# theme: minima
