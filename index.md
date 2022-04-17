@@ -13,8 +13,15 @@ title: はじめに
 ## 目次
 
 - 한마루2.0を利用した世宗コーパスの検索
-- [延世コーパスの使い方](yonsei/overview_yonsei)
-- [高麗大コーパスの使い方](korea/overview_korea)
+- [延世コーパスの使い方](yonsei/overview_yonsei.html)（概要）
+    - 文語均衡コーパスの使い方
+        - [文節の検索](yonsei/written_1.html)
+        - [連語の検索](yonsei/written_2.html)
+        - [文語内連接の検索](yonsei/written_3.html)
+- [高麗大コーパスの使い方](korea/overview_korea.html)（概要）
+    - [現代韓国語用例検索器の使い方](korea/sjriks.html)：SJ-RIKSコーパス
+    - [コーパス分析ツールの使い方](korea/trend21.html)：물결21（Trend21）コーパス
+    - 東亜日報コーパスの使い方
 
 ## ご注意ください
 
