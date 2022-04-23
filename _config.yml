@@ -18,8 +18,8 @@ minima:
   social_links:
     github: okikirmui
 header_pages:
-  - overview_sejong
-  - overview_yonsei
-  - overview_korea
+  - overview_sejong.html
+  - overview_yonsei.html
+  - overview_korea.html
 
 theme: minima
