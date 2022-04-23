@@ -14,14 +14,12 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-# minima:
-#   social_links:
-#     github: okikirmui
-# header_pages:
-#   - sejong/overview_sejong.html
-#   - yonsei/overview_yonsei.html
-#   - korea/overview_korea.html
+minima:
+  social_links:
+    github: okikirmui
+header_pages:
+  - sejong/overview_sejong.md
+  - yonsei/overview_yonsei.md
+  - korea/overview_korea.md
 
-# theme: minima
-
-remote-theme: bulma-clean-theme
+theme: minima
