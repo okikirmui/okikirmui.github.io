@@ -1,4 +1,4 @@
-Sitemap: https://okikirmui.github.io/sitemap.xml
-
 User-agent: *
 Disallow:
+
+Sitemap: https://okikirmui.github.io/sitemap.xml
