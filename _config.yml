@@ -5,6 +5,7 @@ show_excerpts: false
 url: "https://okikirmui.github.io"
 lang: "ja"
 markdown: kramdown
+highlighter: rouge
 github_username: okikirmui
 author: "Yoshinori Sugai"
 
