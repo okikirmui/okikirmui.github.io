@@ -14,10 +14,12 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-# minima:
-#   social_links:
-#     github: okikirmui
-# header_pages:
-#   - about.md
+minima:
+  social_links:
+    github: okikirmui
+header_pages:
+  - sejong_overview
+  - yonsei_overview
+  - korea_overview
 
-# theme: minima
+theme: minima
