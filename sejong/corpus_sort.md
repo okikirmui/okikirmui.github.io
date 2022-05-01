@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "検索結果の演算"
+title: "検索結果のソート"
 ---
 ## 検索結果のソート
 
