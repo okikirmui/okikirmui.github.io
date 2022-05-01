@@ -16,7 +16,7 @@ title: はじめに
     - [文節の検索](sejong/raw_corpus.md)
     - [品詞タグを利用した形態素の検索](sejong/tagged_corpus.md)
     - [検索結果の演算](sejong/corpus_calc.md)
-    - 検索結果のソート
+    - [検索結果のソート](sejong/corpus_sort.md)
     - [検索結果を保存してExcelで利用する](sejong/save_data_to_excel.md)
 - [延世コーパスの使い方](yonsei/overview_yonsei)（概要）
     - 文語均衡コーパスの使い方

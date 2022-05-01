@@ -88,5 +88,5 @@ title: "世宗コーパスの使い方"
   * [字素の検索](raw_corpus#字素の検索)
 * [品詞タグを利用した形態素の検索](tagged_corpus)
 * [検索結果の演算](corpus_calc)
-* 検索結果のソート
+* [検索結果のソート](corpus_sort)
 * [検索結果を保存してExcelで利用する](save_data_to_excel)
