@@ -9,7 +9,7 @@ highlighter: rouge
 github_username: okikirmui
 author: "Yoshinori Sugai"
 
-google_analytics: UA-253677-9
+google_analytics: G-GQ7PMRS0P1
 
 plugins:
   - jekyll-sitemap
